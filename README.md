@@ -12,9 +12,9 @@ All data found in the `datasets` directory are randomly generated as needed by r
 ---
 
 ## Latest update
-26 Nov 2021: Generated this respository and uploaded the first three notebooks used to answer the 'Counting DNA Nucleotides', 'Transcribing DNA into RNA', and 'Complementing a Strand of DNA' problems.
-- "nb001": solution code to 'Counting DNA Nucleotides'
-- "nb002": solution code to 'Transcribing DNA into RNA'
-- "nb003": solution code to 'Complementing a Strand of DNA'
+28 Nov 2024:
+- Added work of the six Level 2 notebooks from the Rosalind.info "Stronghold" section of problems, of codes: 'fib','gc','hamm','iprb','prot','subs'
+- Added a new directory based on work from the Rosalind.info "Armory" section of problems, which will be a single Notebook and separate .py code files for simplistic uploads to Rosalind.info
+
 
 You can find the full list of all available `Problems` at https://rosalind.info/problems/list-view/.
