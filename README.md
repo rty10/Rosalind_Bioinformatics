@@ -1,4 +1,4 @@
-# Rosalind_Bioinformatics
+# Rosalind Bioinformatics
 The contents of this repository are Python3 coding notebooks and datasets used in working with the Rosalind.info work.
 
 ## The repository
@@ -12,9 +12,10 @@ All data found in the `datasets` directory are randomly generated as needed by r
 ---
 
 ## Latest update
-28 Nov 2024:
-- Added work of the six Level 2 notebooks from the Rosalind.info "Stronghold" section of problems, of codes: 'fib','gc','hamm','iprb','prot','subs'
-- Added a new directory based on work from the Rosalind.info "Armory" section of problems, which will be a single Notebook and separate .py code files for simplistic uploads to Rosalind.info
+16 Dec 2024:
+As there are multiple problem solving sections to this website, I've updated the `main` branch to include two directories: `armory` and `stronghold`, as named based on the Rosalind.info website.
+- The `stronghold` problems are further organized based on the problem tree structure from the website.
+- Completed the 'CONS' problem in Level 2 of the `stronghold` section with two attempts.
 
 
 You can find the full list of all available `Problems` at https://rosalind.info/problems/list-view/.
