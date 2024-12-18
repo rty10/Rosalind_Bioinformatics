@@ -12,10 +12,8 @@ All data found in the `datasets` directory are randomly generated as needed by r
 ---
 
 ## Latest update
-16 Dec 2024:
-As there are multiple problem solving sections to this website, I've updated the `main` branch to include two directories: `armory` and `stronghold`, as named based on the Rosalind.info website.
-- The `stronghold` problems are further organized based on the problem tree structure from the website.
-- Completed the 'CONS' problem in Level 2 of the `stronghold` section with two attempts.
+18 Dec 2024:
+- Completed the `FIBD`, `GRPH`, and `IEV` "Stronghold" problems in Level 2.
 
 
 You can find the full list of all available `Problems` at https://rosalind.info/problems/list-view/.
